@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Menma420
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: Menma#6969
 
