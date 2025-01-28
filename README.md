@@ -29,7 +29,7 @@ I’m passionate about continuous learning and self-improvement, and currently, 
 - Improving my **chess strategies**.
 - Mastering **advanced JavaScript**,**React.js** for frontend and **Node.js** for backend development.
 
-## 📫 **How to reach me**
-- Feel free to explore my repositories and open issues or pull requests!  
-- [LinkedIn](#www.linkedin.com/in/uttkarsh-malviya-373231130)  
-- [Email](mailto:uttkarshmalviya90@gmail.com)
+## 📫 **How to Reach Me**  
+- Feel free to explore my repositories and contribute with issues or pull requests!  
+- [LinkedIn](https://www.linkedin.com/in/uttkarsh-malviya-373231130)  
+- [Email](mailto:uttkarshmalviya90@gmail.com)  
