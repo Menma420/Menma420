@@ -31,5 +31,5 @@ I’m passionate about continuous learning and self-improvement, and currently, 
 
 ## 📫 **How to reach me**
 - Feel free to explore my repositories and open issues or pull requests!  
-- [LinkedIn](www.linkedin.com/in/uttkarsh-malviya-373231130)  
+- [LinkedIn](#www.linkedin.com/in/uttkarsh-malviya-373231130)  
 - [Email](mailto:uttkarshmalviya90@gmail.com)
