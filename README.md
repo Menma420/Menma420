@@ -6,13 +6,6 @@ Welcome to my GitHub profile! I'm a passionate software developer, currently exp
 
 I’m a **full-stack developer**, currently working on projects involving **HTML**, **CSS**, **JavaScript**, **MySQL**, **MongoDB** and more. I have a strong foundation in **Data Structures and Algorithms**, **Web Development**, and **Software Designing**.
 
-### Some of my projects:
-- **IIIT-A Bus Booking System** 🚍  
-  A web application for booking seats in the college bus, featuring real-time availability updates and easy seat reservation.
-
-- **IIITA Helpdesk System** 🧑‍💻  
-  A helpdesk system designed to manage services like Cleaning, Electrical work, and Plumbing for the college, streamlining requests and task management.
-
 ## 🛠️ **Technologies I work with**
 - **Languages:** C++, JavaScript, HTML/CSS, SQL
 - **Frameworks:** React, Node.js, Express.js
@@ -38,5 +31,5 @@ I’m passionate about continuous learning and self-improvement, and currently, 
 
 ## 📫 **How to reach me**
 - Feel free to explore my repositories and open issues or pull requests!  
-- [LinkedIn](#)  
+- [LinkedIn](www.linkedin.com/in/uttkarsh-malviya-373231130)  
 - [Email](mailto:uttkarshmalviya90@gmail.com)
