@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, currently exp
 I’m a **full-stack developer**, currently working on projects involving **HTML**, **CSS**, **JavaScript**, **MySQL**, **MongoDB** and more. I have a strong foundation in **Data Structures and Algorithms**, **Web Development**, and **Software Designing**.
 
 ## 🛠️ **Technologies I work with**
-- **Languages:** C++, JavaScript, HTML/CSS, SQL
+- **Languages:** C++, HTML/CSS, JavaScript, TypeScript, SQL
 - **Frameworks:** React, Node.js, Express.js
 - **Databases:** MySQL, Postgresql, MongoDB
 - **Tools & Libraries:** Postman, Vscode
