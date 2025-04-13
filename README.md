@@ -8,7 +8,7 @@ I’m a **full-stack developer**, currently working on projects involving **HTML
 
 ## 🛠️ **Technologies I work with**
 - **Languages:** C++, HTML/CSS, JavaScript, TypeScript, SQL
-- **Frameworks:** React, Node.js, Express.js
+- **Frameworks:** ReactJs, NextJs, Node.js, Express.js
 - **Databases:** MySQL, Postgresql, MongoDB
 - **Tools & Libraries:** Postman, Vscode
 - **Version Control:** Git/GitHub
@@ -27,7 +27,7 @@ I’m a **full-stack developer**, currently working on projects involving **HTML
 I’m passionate about continuous learning and self-improvement, and currently, I'm focused on:
 - Enhancing my **calisthenics** skills.
 - Improving my **chess strategies**.
-- Mastering **advanced JavaScript**,**React.js** for frontend and **Node.js** for backend development.
+- Mastering **advanced JavaScript**,**React.js** and **Next.js** for frontend and **Node.js** for backend development.
 
 ## 📫 **How to Reach Me**  
 - Feel free to explore my repositories and contribute with issues or pull requests!  
