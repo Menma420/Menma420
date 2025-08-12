@@ -11,7 +11,7 @@ I’m a **full-stack developer**, currently working on projects involving **HTML
 - **Frontend:** React.js, Next.js, Tailwind, Redux
 - **Backend:** Node.js, Express.js, FastAPI
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Prisma ORM
-- **DevOps & Tools:** Git, GitHub, Docker, GitHub Actions, Railway, Vercel, Postman, VS Code, JIRA, Figma
+- **DevOps & Tools:** Git, GitHub, Docker, GitHub Actions, Railway, Vercel, Postman, VS Code
 - **Concepts:** REST APIs, WebSockets, OOP, SDLC, Agile Methodology, CI/CD, Version Control, Software Architecture
 - **ML/AI:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
 
